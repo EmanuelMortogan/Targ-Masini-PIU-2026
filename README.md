@@ -7,7 +7,7 @@ Inregistrarea detaliilor referitoare la masini care au fost vandute / cumparate.
 
 Pana la finalizarea proiectului, vor exista urmatoarele functii:
 
-  -Inrtroducere / Editare / Stergere date;
+  -Introducere / Editare / Stergere date;
   
   -Avertisment la introducerea unei noi tranzactii daca o persoana cumpara / vinde mai multe masini in aceeasi zi;
   
